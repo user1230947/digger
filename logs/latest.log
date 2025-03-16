@@ -1,50 +1,89 @@
-[19:50:11] [Client thread/INFO]: Setting user: Player865
-[19:50:12] [Client thread/INFO]: LWJGL Version: 2.9.4
-[19:50:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:examplemod, FMLFileResourcePack:My First Mod
-[19:50:14] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[19:50:14] [Thread-10/INFO]: Initializing LWJGL OpenAL
-[19:50:14] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[19:50:14] [Thread-10/INFO]: OpenAL initialized.
-[19:50:15] [Sound Library Loader/INFO]: Sound engine started
-[19:50:18] [Client thread/INFO]: Created: 16x16 textures-atlas
-[19:50:18] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:examplemod, FMLFileResourcePack:My First Mod
-[19:50:18] [Client thread/INFO]: SoundSystem shutting down...
-[19:50:18] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[19:50:18] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[19:50:19] [Thread-12/INFO]: Initializing LWJGL OpenAL
-[19:50:19] [Thread-12/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[19:50:19] [Thread-12/INFO]: OpenAL initialized.
-[19:50:19] [Sound Library Loader/INFO]: Sound engine started
-[19:50:22] [Client thread/INFO]: Created: 512x512 textures-atlas
-[19:50:26] [Server thread/INFO]: Starting integrated minecraft server version 1.8.9
-[19:50:26] [Server thread/INFO]: Generating keypair
-[19:50:26] [Server thread/INFO]: Preparing start region for level 0
-[19:50:26] [Server thread/INFO]: Changing view distance to 12, from 10
-[19:50:27] [Server thread/INFO]: Player865[local:E:443c2eb1] logged in with entity id 120 at (194.41544262133132, 10.105517742179197, 306.3854222085449)
-[19:50:27] [Server thread/INFO]: Player865 joined the game
-[19:50:34] [Client thread/INFO]: [CHAT] Usage: *goto <x> <y> <z>
-[19:50:38] [Server thread/INFO]: <Player865> *goto 194 4 306
-[19:50:38] [Client thread/INFO]: [CHAT] <Player865> *goto 194 4 306
-[19:50:38] [Client thread/INFO]: [CHAT] Finding path to (194, 4, 306)...
-[19:50:38] [Client thread/INFO]: [CHAT] Found path with 44 nodes
-[19:51:11] [Client thread/INFO]: [CHAT] Finding path to (233, 4, 282)...
-[19:51:11] [Client thread/INFO]: [CHAT] Found path with 42 nodes
-[19:51:11] [Server thread/INFO]: <Player865> *goto 233 4 282
-[19:51:11] [Client thread/INFO]: [CHAT] <Player865> *goto 233 4 282
-[19:52:03] [Server thread/INFO]: <Player865> *goto 257 5 319
-[19:52:03] [Client thread/INFO]: [CHAT] <Player865> *goto 257 5 319
-[19:52:03] [Client thread/INFO]: [CHAT] Finding path to (257, 5, 319)...
-[19:52:03] [Client thread/INFO]: [CHAT] No path found to destination!
-[19:52:11] [Server thread/INFO]: Saving and pausing game...
-[19:52:11] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[19:52:11] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[19:52:11] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[19:52:12] [Client thread/INFO]: Stopping!
-[19:52:12] [Client thread/INFO]: SoundSystem shutting down...
-[19:52:12] [Server thread/INFO]: Stopping server
-[19:52:12] [Server thread/INFO]: Saving players
-[19:52:12] [Server thread/INFO]: Saving worlds
-[19:52:12] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[19:52:12] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[19:52:12] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[19:52:12] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[20:03:14] [Client thread/INFO]: Setting user: Player427
+[20:03:15] [Client thread/INFO]: LWJGL Version: 2.9.4
+[20:03:17] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:examplemod, FMLFileResourcePack:My First Mod
+[20:03:17] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:03:17] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[20:03:17] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:03:17] [Thread-10/INFO]: OpenAL initialized.
+[20:03:17] [Sound Library Loader/INFO]: Sound engine started
+[20:03:21] [Client thread/INFO]: Created: 16x16 textures-atlas
+[20:03:21] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:examplemod, FMLFileResourcePack:My First Mod
+[20:03:21] [Client thread/INFO]: SoundSystem shutting down...
+[20:03:21] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[20:03:21] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:03:21] [Thread-12/INFO]: Initializing LWJGL OpenAL
+[20:03:21] [Thread-12/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:03:21] [Thread-12/INFO]: OpenAL initialized.
+[20:03:22] [Sound Library Loader/INFO]: Sound engine started
+[20:03:25] [Client thread/INFO]: Created: 512x512 textures-atlas
+[20:03:28] [Server thread/INFO]: Starting integrated minecraft server version 1.8.9
+[20:03:28] [Server thread/INFO]: Generating keypair
+[20:03:28] [Server thread/INFO]: Preparing start region for level 0
+[20:03:28] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:03:29] [Server thread/INFO]: Player427[local:E:fa39c199] logged in with entity id 152 at (277.56118758922344, 9.489377749409105, 279.0400635576821)
+[20:03:29] [Server thread/INFO]: Player427 joined the game
+[20:03:30] [Server thread/INFO]: Saving and pausing game...
+[20:03:30] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:03:30] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:03:30] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:03:48] [Server thread/INFO]: Saving and pausing game...
+[20:03:48] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:03:48] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:03:48] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:03:53] [Server thread/INFO]: Changing difficulty to PEACEFUL, from NORMAL
+[20:03:55] [Server thread/INFO]: Saving and pausing game...
+[20:03:55] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:03:55] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:03:55] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:04:02] [Server thread/INFO]: <Player427> *goto 266 5 303
+[20:04:02] [Client thread/INFO]: [CHAT] <Player427> *goto 266 5 303
+[20:04:02] [Client thread/INFO]: [CHAT] Finding path to (266, 5, 303)...
+[20:04:02] [Client thread/INFO]: [CHAT] Found path with 15 nodes
+[20:04:26] [Server thread/INFO]: <Player427> *goto 214 4 320
+[20:04:26] [Client thread/INFO]: [CHAT] <Player427> *goto 214 4 320
+[20:04:26] [Client thread/INFO]: [CHAT] Finding path to (214, 4, 320)...
+[20:04:26] [Client thread/INFO]: [CHAT] Found path with 10 nodes
+[20:04:36] [Server thread/INFO]: <Player427> *goto 214 4 320
+[20:04:36] [Client thread/INFO]: [CHAT] <Player427> *goto 214 4 320
+[20:04:36] [Client thread/INFO]: [CHAT] Finding path to (214, 4, 320)...
+[20:04:36] [Client thread/INFO]: [CHAT] Found path with 83 nodes
+[20:05:11] [Server thread/INFO]: <Player427> *goto 214 4 320
+[20:05:11] [Client thread/INFO]: [CHAT] <Player427> *goto 214 4 320
+[20:05:11] [Client thread/INFO]: [CHAT] Finding path to (214, 4, 320)...
+[20:05:11] [Client thread/INFO]: [CHAT] Found path with 32 nodes
+[20:05:27] [Server thread/INFO]: Saving and pausing game...
+[20:05:27] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:05:27] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:05:27] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:05:34] [Server thread/INFO]: Player427 has just earned the achievement [Taking Inventory]
+[20:05:34] [Client thread/INFO]: [CHAT] Player427 has just earned the achievement [Taking Inventory]
+[20:05:52] [Server thread/INFO]: <Player427> *goto 201 9.5 294
+[20:05:52] [Client thread/INFO]: [CHAT] <Player427> *goto 201 9.5 294
+[20:05:52] [Client thread/INFO]: [CHAT] Invalid coordinates! Use numbers.
+[20:05:56] [Server thread/INFO]: <Player427> 201 9 294
+[20:05:56] [Client thread/INFO]: [CHAT] <Player427> 201 9 294
+[20:06:03] [Server thread/INFO]: <Player427> *goto 201 9 294
+[20:06:03] [Client thread/INFO]: [CHAT] <Player427> *goto 201 9 294
+[20:06:03] [Client thread/INFO]: [CHAT] Finding path to (201, 9, 294)...
+[20:06:04] [Client thread/INFO]: [CHAT] No path found to destination!
+[20:06:17] [Server thread/INFO]: <Player427> *goto 201 11 297
+[20:06:17] [Client thread/INFO]: [CHAT] <Player427> *goto 201 11 297
+[20:06:17] [Client thread/INFO]: [CHAT] Finding path to (201, 11, 297)...
+[20:06:19] [Client thread/INFO]: [CHAT] No path found to destination!
+[20:07:01] [Server thread/INFO]: <Player427> *goto 222 10 299
+[20:07:01] [Client thread/INFO]: [CHAT] <Player427> *goto 222 10 299
+[20:07:01] [Client thread/INFO]: [CHAT] Finding path to (222, 10, 299)...
+[20:07:02] [Client thread/INFO]: [CHAT] No path found to destination!
+[20:07:15] [Server thread/INFO]: Saving and pausing game...
+[20:07:15] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:07:15] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:07:15] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:07:16] [Client thread/INFO]: Stopping!
+[20:07:16] [Client thread/INFO]: SoundSystem shutting down...
+[20:07:16] [Server thread/INFO]: Stopping server
+[20:07:16] [Server thread/INFO]: Saving players
+[20:07:16] [Server thread/INFO]: Saving worlds
+[20:07:16] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:07:16] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:07:16] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:07:16] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

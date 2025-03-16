@@ -1,12 +1,12 @@
 invertYMouse:false
 mouseSensitivity:0.5
-fov:0.0
+fov:1.0
 gamma:0.0
 saturation:0.0
 renderDistance:12
 guiScale:0
 particles:0
-bobView:true
+bobView:false
 anaglyph3d:false
 maxFps:120
 fboEnable:true
@@ -38,7 +38,7 @@ chatHeightFocused:1.0
 chatHeightUnfocused:0.44366196
 chatScale:1.0
 chatWidth:1.0
-showInventoryAchievementHint:true
+showInventoryAchievementHint:false
 mipmapLevels:4
 streamBytesPerPixel:0.5
 streamMicVolume:1.0
@@ -90,6 +90,7 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
+key_Navigation Command:49
 soundCategory_master:0.0
 soundCategory_music:1.0
 soundCategory_record:1.0
